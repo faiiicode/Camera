@@ -1,0 +1,35 @@
+
+.my_custom_table
+{
+min-width:400px;
+font-size:14px;
+}
+
+.my_thread
+{
+font-weight:normal;
+text_transform:uppercase;
+letter-spacing:.2em;
+background-color:#f8f8fa!important;
+}
+
+ .buttons {
+width: 200px;
+margin: 0 auto;
+cursor: pointer; /* Pointer/hand icon */
+display: block; /* Make the buttons appear below each other */
+}
+
+
+.action_btn {
+width: 200px;
+margin: 0 auto;
+display: inline;}
+
+h2{
+    display: inline;
+}
+
+.glyphicon {
+  color:black;
+}
